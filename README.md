@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Martin
+- 👀 I’m interested in Javascript and its frameworks as ReactJs and NodeJs
+- 🌱 I’m currently learning ReactJs and still improving NodeJs
+- 📫 How to reach me https://portfolio-meg.herokuapp.com/
